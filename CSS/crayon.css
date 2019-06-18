@@ -1,0 +1,137 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+#menu{
+    background-color: rgb(253, 239, 214);
+    padding:20px;
+    height:75px;
+    display:inline-block;
+    width: 100%;
+    text-align: left;
+    border-bottom: 2px solid black;
+
+}
+#menu a{
+    color: black;
+    text-decoration: none;
+}
+#title{
+    width: 400px;
+    font-weight: 40px;
+    display: inline-block;
+    font: 20px Arial ;
+    vertical-align: top;
+    word-spacing: 5px;
+}
+#title a:hover{
+    background-color: rgb(253, 226, 184)
+}
+
+.title_1{
+    display: inline-block;
+    vertical-align: top;
+    display: inline-block;
+    margin: 0px 0px 0px 0px;
+    text-align: left;
+}
+
+.title_2{
+    display: inline-block;
+    vertical-align: top;
+    margin: 0px 0px 0px 35px;
+    word-spacing: 5px;
+}
+
+#title a:hover{
+    text-decoration: none;
+    background-color: rgb(253, 226, 184)
+}
+
+#creation{
+    text-align: left;
+    margin: 0px 0px 0px 30px;
+    width:150px;
+    display: inline-block;
+    font: 20px Arial ;
+    word-spacing: 5px;
+}
+
+.partie{
+    margin-top: 5px;
+    margin-left: 80px;
+    text-decoration: none;
+    font-size: 17px;
+    letter-spacing: 1px;
+}
+
+.classinfo_1{
+    margin-top: 5px;
+    margin-left: 140px;
+    text-decoration: none;
+    font-style: oblique;
+    font-size: 15px;
+    letter-spacing: 1px;
+}
+.classinfo_2{
+    margin-top: 5px;
+    margin-left: 140px;
+    text-decoration: none;
+    font-style: oblique;
+    font-size: 15px;
+    letter-spacing: 1px;
+}
+
+#creation a:hover{
+    background-color: rgb(253, 226, 184)
+}
+
+#citation{
+    vertical-align: top;
+    font-size: 20px;
+    padding-top: 70px;
+    padding-right: 80px;
+    text-align: right;
+    float: right;
+    color: rgb(145, 145, 145);
+    width: 500px;
+}
+#fond{
+    background-color:rgb(247, 241, 232);
+    margin-top: 20px;
+    border-top: 2px solid black;
+    height: 4350px;
+}
+h1{
+    text-indent: 40px;
+    font:23px Arial 500;
+}
+h2{
+    padding-top:200px;
+    font: 20px Arial;
+    margin-left: 70px;
+    text-decoration-line: underline;
+}
+p{
+    text-align: center;
+    font:18px Arial ;
+}
+
+#draw1 img{
+    max-width:90%;
+    margin: 0px 0px 0px 650px;
+}
+
+#draw2 img{
+    max-width:90%;
+    margin: 0px 0px 0px 550px;
+}
+#draw3 img{
+    max-width:90%;
+    margin: 0px 0px 0px 650px;
+}
+#draw4 img{
+    max-width:90%;
+    margin: 0px 0px 0px 650px;
+}

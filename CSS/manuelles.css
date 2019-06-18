@@ -1,0 +1,143 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+#menu{
+    background-color: rgb(253, 239, 214);
+    padding:20px;
+    height:75px;
+    display:inline-block;
+    width: 100%;
+    text-align: left;
+    border-bottom: 2px solid black;
+
+}
+#menu a{
+    color: black;
+    text-decoration: none;
+}
+#title{
+    width: 400px;
+    font-weight: 40px;
+    display: inline-block;
+    vertical-align: top;
+    font: 20px Arial ;
+    word-spacing: 5px;
+}
+.title_1{
+    display: inline-block;
+    vertical-align: top;
+    display: inline-block;
+    margin: 0px 0px 0px 0px;
+    text-align: left;
+}
+
+.title_2{
+    display: inline-block;
+    vertical-align: top;
+    margin: 0px 0px 0px 35px;
+    word-spacing: 5px;
+}
+
+#title a:hover{
+    text-decoration: none;
+    background-color: rgb(253, 226, 184)
+}
+
+#creation{
+    text-align: left;
+    margin: 0px 0px 0px 30px;
+    width:300px;
+    display: inline-block;
+    font: 20px Arial ;
+    word-spacing: 5px;
+}
+
+.partie{
+    margin-top: 5px;
+    margin-left: 80px;
+    text-decoration: none;
+    font-size: 17px;
+    letter-spacing: 1px;
+}
+
+.classinfo_1{
+    margin-top: 5px;
+    margin-left: 140px;
+    text-decoration: none;
+    font-style: oblique;
+    font-size: 15px;
+    letter-spacing: 1px;
+}
+.classinfo_2{
+    margin-top: 5px;
+    margin-left: 140px;
+    text-decoration: none;
+    font-style: oblique;
+    font-size: 15px;
+    letter-spacing: 1px;
+}
+
+#creation a:hover{
+    background-color: rgb(253, 226, 184)
+}
+#citation{
+    vertical-align: top;
+    font-size: 20px;
+    padding-top: 70px;
+    padding-right: 80px;
+    text-align: right;
+    float: right;
+    color: rgb(145, 145, 145);
+    width: 500px;
+}
+#fond{
+    background-color:rgb(247, 241, 232);
+    margin-top: 20px;
+    border-top: 2px solid black;
+    height: 2750px;
+}
+h1{
+    text-indent: 40px;
+    font:23px Arial 500;
+    margin-top: 50px;
+
+}
+h3{
+    padding-top:80px;
+    font: 24px Arial;
+    text-align: center;
+    text-shadow: 2px 2px rgb(223, 240, 252);
+
+}
+p{
+    text-align: center;
+    font:18px Arial ;
+    margin: 0px 100px 0px 100px;
+}
+h2{
+    font: 15px Arial italic;
+    margin-left: 800px}
+#brioche img{
+    max-width:90%;
+    margin: 0px 0px 0px 450px;
+}
+.container{
+    vertical-align: center;
+    margin-left: 300px;
+}
+.container .container_1 {
+    max-width:90%;
+}
+#sapins img{
+    max-width:90%;
+    margin: 0px 400px 0px 650px;
+}
+#pirate img{
+    max-width:90%;
+}
+#coupePh img{
+    max-width:90%;
+    margin: 0px 0px 0px 750px;
+}

@@ -1,0 +1,123 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+#menu{
+    background-color: rgb(253, 239, 214);
+    padding:20px;
+    height:90px;
+    display:inline-block;
+    width: 100%;
+    text-align: left;
+    border-bottom: 2px solid black;
+
+}
+#menu a{
+    color: black;
+    text-decoration: none;
+}
+#title{
+    width: 250px;
+    font-weight: 40px;
+    display: inline-block;
+    vertical-align: top;
+    font: 20px Arial ;
+    margin: 0px 0px 0px 20px;
+    word-spacing: 5px;
+}
+
+#title a:hover{
+    text-decoration: none;
+    background-color: rgb(253, 226, 184)
+}
+
+#creation{
+    text-align: left;
+    margin: 0px 0px 0px 30px;
+    width:150px;
+    display: inline-block;
+    font: 20px Arial ;
+    word-spacing: 5px;
+}
+
+.partie{
+    margin-top: 5px;
+    margin-left: 80px;
+    text-decoration: none;
+    font-size: 17px;
+    letter-spacing: 1px;
+}
+
+.classinfo_1{
+    margin-top: 5px;
+    margin-left: 140px;
+    text-decoration: none;
+    font-style: oblique;
+    font-size: 15px;
+    letter-spacing: 1px;
+}
+.classinfo_2{
+    margin-top: 5px;
+    margin-left: 140px;
+    text-decoration: none;
+    font-style: oblique;
+    font-size: 15px;
+    letter-spacing: 1px;
+}
+
+#creation a:hover{
+    background-color: rgb(253, 226, 184)
+}
+
+#software{
+    background-color:rgb(247, 241, 232);
+    margin-top: 20px;
+    border-top: 2px solid black;
+    height: 4200px;
+}
+h1{
+    text-indent: 40px;
+    font:23px Arial 500;
+    text-decoration-line: underline;
+    text-decoration-style: dotted;
+}
+
+p{
+    text-align: center;
+    font:18px Arial ;
+    margin:0px 100px 50px 100px;
+}
+
+h4{
+    padding-top: 80px;
+    font: 24px Arial;
+    text-shadow: 2px 2px rgb(223, 240, 252);
+    text-align: center;
+}
+h2{
+    padding-top:80px;
+    font: 20px Arial;
+    margin-left: 70px;
+    text-decoration-line: underline;
+}
+
+#cess img{
+    max-width:90%;
+    margin: 0px 0px 0px 90px;
+}
+
+#Plan_1 img{
+    max-width:90%;
+    margin: 0px 0px 0px 90px;
+}
+
+#Plan_2 img{
+    max-width:70%;
+    margin: 0px 0px 0px 300px;
+}
+
+#marakech img{
+    max-width:70%;
+    margin: 0px 0px 0px 300px;
+}
